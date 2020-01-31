@@ -1,0 +1,26 @@
+.navbar-brand {
+    font-weight: 600;
+    letter-spacing: .125rem;
+}
+
+span#gray {
+    color: rgba(183, 171, 171, 0.9);
+    font-weight: 400;;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar {
+    height: 4rem;
+}
+
+.jumbotron {
+    background-color: #e8e8e8;
+}
+
+.jumbotron h1, .jumbotron p {
+    font-weight: 600;
+    color: #424141;
+}
