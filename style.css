@@ -1,3 +1,9 @@
+/* Navbar */
+
+.navbar {
+    height: 4rem;
+}
+
 .navbar-brand {
     font-weight: 600;
     letter-spacing: .125rem;
@@ -12,15 +18,36 @@ span#gray {
     color: black;
 }
 
-.navbar {
-    height: 4rem;
-}
+/* 1-st section */
 
-.jumbotron {
+.starting-page {
     background-color: #e8e8e8;
 }
 
-.jumbotron h1, .jumbotron p {
+.starting-page h1, .starting-page p {
     font-weight: 600;
     color: #424141;
+}
+
+.img-60 {
+    max-width: 60%;
+    padding: 2rem 1.5rem;
+}
+
+.align-self-center {
+    width: 80%;
+}
+
+.btn {
+    width: 80%;
+}
+
+.btn-primary {
+    background-color: #7a7c7d;
+    border-color: #7a7c7d;
+}
+
+.btn-primary:hover {
+    background-color: #80868a;
+    border-color: #7a7c7d;
 }
