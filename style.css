@@ -39,12 +39,13 @@ span#gray {
 }
 
 .btn {
-    width: 80%;
+    min-width: 100%;
 }
 
 .btn-primary {
-    background-color: #7a7c7d;
-    border-color: #7a7c7d;
+    background-color: #656667;
+    border-color: #656667;
+    border-radius: 0%;
 }
 
 .btn-primary:hover {
