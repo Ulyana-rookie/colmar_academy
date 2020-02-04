@@ -29,17 +29,17 @@ span#gray {
     color: #424141;
 }
 
-.img-60 {
+ .img-60 {
     max-width: 60%;
     padding: 2rem 1.5rem;
 }
 
 .align-self-center {
     width: 80%;
-}
+} 
 
 .btn {
-    min-width: 100%;
+    width: 100%;
 }
 
 .btn-primary {
